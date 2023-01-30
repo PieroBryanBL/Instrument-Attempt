@@ -1,1 +1,0 @@
-plyr.setup("#plyr-youtube");
