@@ -16,3 +16,6 @@ Los objetivos principales de este proyecto son:
 - Ganar más confianza en el uso de HTML y CSS, así como en la implementación de buenas prácticas de desarrollo web.
 
 A través de este proyecto de reconstrucción básica, estoy seguro de que mejoraré mis habilidades y adquiriré una comprensión más sólida de los principios fundamentales del desarrollo web. Estoy emocionado de seguir aprendiendo y explorando nuevas posibilidades en mi viaje hacia convertirme en un profesional del desarrollo web.
+
+![Project-02](https://github.com/PieroBryanBL/Web_Instrument-Landing/assets/107169260/2723bd6b-fac8-4bb4-9581-25ad2e408ec4)
+
